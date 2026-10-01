@@ -5,7 +5,7 @@ variable "aws_region" {
 
 variable "vpc_name" {
   type    = string
-  default = "DevOps-Project-VPC"
+  default = "DevOps-Project-VPC-Webhook-Test"
 }
 
 variable "vpc_cidr" {
